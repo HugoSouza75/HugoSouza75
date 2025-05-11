@@ -1,4 +1,4 @@
-# Hello There / Welcome / Bem-Vindo
+# Hello There / Welcome / Olá
 
 - 👀 I’m interested in learning more about Python and other Programming Languages, like Java or SQL. // Tenho interesse em aprender mais sobre Python e outras linguagens de Programação, como Java ou SQL.
 - 🌱 I’m currently learning: Python // Atualmente aprendendo: Python
