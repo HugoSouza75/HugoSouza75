@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-![] (https://media1.tenor.com/m/-KTvFl_mub4AAAAC/batman-moon.gif)
+![](https://media1.tenor.com/m/-KTvFl_mub4AAAAC/batman-moon.gif)
