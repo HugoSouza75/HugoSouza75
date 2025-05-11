@@ -1,8 +1,8 @@
-# Hello There / Welcome
+# Hello There / Welcome / Bem-Vindo
 
-- 👀 I’m interested in learning more about Python and other Programming Languages, like Java or SQL.
-- 🌱 I’m currently learning: Python
-- ⚡ Currently studying first semester in university.
+- 👀 I’m interested in learning more about Python and other Programming Languages, like Java or SQL. // Tenho interesse em aprender mais sobre Python e outras linguagens de Programação, como Java ou SQL.
+- 🌱 I’m currently learning: Python // Atualmente aprendendo: Python
+- ⚡ Currently studying first semester in university. // Atualmente cursando o primeiro semestre na universidade.
 
 <!---
 HugoSouza75/HugoSouza75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
