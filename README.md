@@ -15,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugo-antonio-bezerra-de-souza-676170365/?trk=opento_sprofile_topcard)
 
-<a href="https://docs.google.com/document/d/1CLo-CimVcvVix67FNSemXp0skOiKz1IQnuN4BoM91GM/edit?tab=t.0" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 5px;">
