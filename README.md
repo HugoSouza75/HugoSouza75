@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [![Email](https://img.shields.io/badge/Email-hugoabsouza@sempreceub.com-red?style=flat-square&logo=gmail)](mailto:hugoabsouza@sempreceub.com)
 
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin]([https://www.linkedin.com/in/hugo-antonio-bezerra-de-souza-676170365/?trk=opento_sprofile_topcard](https://www.linkedin.com/in/hugo-antonio-bezerra-de-souza-676170365/?trk=opento_sprofile_topcard)))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugo-antonio-bezerra-de-souza-676170365/?trk=opento_sprofile_topcard)
