@@ -1,3 +1,5 @@
+# Hello There / Welcome
+
 - 👀 I’m interested in learning more about Python and other Programming Languages, like Java or SQL.
 - 🌱 I’m currently learning: Python
 - ⚡ Currently studying first semester in university.
